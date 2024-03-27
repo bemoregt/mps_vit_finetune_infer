@@ -8,7 +8,7 @@
 ![htop example]( https://github.com/bemoregt/mps_sam_tkinter_pytorch/blob/main/sam_demo.gif "demo")
 - Screenshot of htop
 
-- ![gpu graph example]( https://github.com/bemoregt/mps_sam_tkinter_pytorch/blob/main/sam_demo.gif "demo")
+- ![gpu graph example]( https://github.com/bemoregt/mps_vit_finetune_infer/blob/main/gpu.png "demo")
 - Screenshot of GPU Monitoring
 
 - 
