@@ -2,7 +2,7 @@
 - mps : metal GPGPU for silicon mac's GPU
 - It cccelerate the pytorch's train/infer speed.
 
-![Thonny example]( https://github.com/bemoregt/mps_sam_tkinter_pytorch/blob/main/sam_demo.gif "EDITOR")
+![Thonny example]( https://github.com/bemoregt/mps_vit_finetune_infer/blob/main/thonny_infer.png "EDITOR")
 - Screenshot of Thonny editor
 
 ![htop example]( https://github.com/bemoregt/mps_vit_finetune_infer/blob/main/htop.png "HTOP")
