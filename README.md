@@ -14,6 +14,6 @@
 ### Dependancy
 - torch, torchvision
 - Thonny : opensource editor for python
-- Mac OSX m1 or m2 machine
+- Mac OSX m1 or m2 silicon machine
 - VisionTransformer model : https://pytorch.org/vision/stable/models/vision_transformer.html
   
